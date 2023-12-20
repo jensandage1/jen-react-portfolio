@@ -1,5 +1,4 @@
 import '../styles/header.css';
-import myGif from '../assets/images/jen-gif.gif';
 
 export default function Header () {
     return (

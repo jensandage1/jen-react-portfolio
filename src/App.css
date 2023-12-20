@@ -1,3 +1,6 @@
 :root {
-  background-color: #141421;
+  /* background-color: #141421; */
+  background-image: url('./assets/images/groovy-background.jpg');
+  background-size: 600px;
+  background-repeat: repeat;
 }
