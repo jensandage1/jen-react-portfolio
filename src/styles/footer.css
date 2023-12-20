@@ -1,0 +1,18 @@
+.footer-box{
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+    color: #65a5ad;
+    background-color: #1B3A4B;
+    font-size: 1.5vh;
+}
+
+span {
+    font-size: 2vh;
+    color: #51325a;
+    font-weight: bolder;
+    text-shadow: -1px 1px 0 #000000, 
+    1px 1px 0 #000000, 
+   1px -1px 0 #000000, 
+  -1px -1px 0 #000000;
+}

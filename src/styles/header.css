@@ -1,0 +1,33 @@
+h1 {
+    font-size: 4vh;
+    color: #006466;
+    text-shadow: -1px 1px 0 #000000, 
+    1px 1px 0 #000000, 
+   1px -1px 0 #000000, 
+  -1px -1px 0 #000000;
+    margin-left: 10px;
+    line-height: .7;
+
+}
+
+h3 {
+    color: #65a5ad;
+    font-size: 1.5vh;
+    margin-left: 10px;
+}
+
+.header-box {
+    background-color: #0b202c;
+    border: 2px dotted #51325a;
+    border-radius: 12px;
+    width: 90%;
+    height: 14vh;
+    /* display: flex;
+    flex-direction: row; */
+    margin: 20px;
+}
+
+/* .header-content {
+    padding: 10px;
+} */
+
